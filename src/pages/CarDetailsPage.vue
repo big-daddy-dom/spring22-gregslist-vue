@@ -44,7 +44,6 @@
   </Modal>
 </template>
 
-
 <script>
 import { computed, onMounted } from "@vue/runtime-core";
 import { logger } from "../utils/Logger";
@@ -87,6 +86,4 @@ export default {
 };
 </script>
 
-
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>
